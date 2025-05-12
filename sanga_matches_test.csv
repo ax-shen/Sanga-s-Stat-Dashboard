@@ -1,0 +1,135 @@
+,Innings1,Innings2,Runs,Wickets,Conceded,Catches,Stumpings,Opposition,Ground,Start Date
+0,23,-,23,-,-,2,0,v South Africa,Galle,20 Jul 2000
+1,24,5,29,-,-,3,0,v South Africa,Kandy,30 Jul 2000
+2,25,6,31,-,-,4,0,v South Africa,Colombo (SSC),6 Aug 2000
+3,74,17,91,-,-,2,0,v South Africa,Durban,26 Dec 2000
+4,32,11,43,-,-,1,0,v South Africa,Cape Town,2 Jan 2001
+5,3,98,101,-,-,1,0,v South Africa,Centurion,20 Jan 2001
+6,58,-,58,-,-,5,0,v England,Galle,22 Feb 2001
+7,17,95,112,-,-,4,1,v England,Kandy,7 Mar 2001
+8,45,0,45,-,-,3,0,v England,Colombo (SSC),15 Mar 2001
+9,105*,DNB,105,-,-,4,0,v India,Galle,14 Aug 2001
+10,31,13,44,-,-,1,0,v India,Kandy,22 Aug 2001
+11,47,-,47,-,-,1,1,v India,Colombo (SSC),29 Aug 2001
+12,54,-,54,-,-,3,0,v Bangladesh,Colombo (SSC),6 Sep 2001
+13,140,DNB,140,-,-,3,0,v West Indies,Galle,13 Nov 2001
+14,15,45,60,-,-,4,0,v West Indies,Kandy,21 Nov 2001
+15,55,DNB,55,-,-,2,1,v West Indies,Colombo (SSC),29 Nov 2001
+16,128,-,128,-,-,3,0,v Zimbabwe,Colombo (SSC),27 Dec 2001
+17,42,-,42,-,-,3,1,v Zimbabwe,Kandy,4 Jan 2002
+18,29,56,85,-,-,1,1,v Zimbabwe,Galle,12 Jan 2002
+19,230,14*,244,-,-,5,1,v Pakistan,Lahore,6 Mar 2002
+20,10,6*,16,-,-,6,0,v England,Lord's,16 May 2002
+21,16,1,17,-,-,2,0,v England,Birmingham,30 May 2002
+22,40,32,72,-,-,2,0,v England,Manchester,13 Jun 2002
+23,75,-,75,-,-,4,0,v Bangladesh,Colombo (PSS),21 Jul 2002
+24,26,7,33,-,-,3,0,v South Africa,Johannesburg,8 Nov 2002
+25,35,89,124,-,-,3,0,v South Africa,Centurion,15 Nov 2002
+26,67,-,67,-,-,2,0,v New Zealand,Colombo (PSS),25 Apr 2003
+27,10,27*,37,-,-,1,0,v New Zealand,Kandy,3 May 2003
+28,56,DNB,56,-,-,0,0,v West Indies,Gros Islet,20 Jun 2003
+29,75,12,87,-,-,2,0,v West Indies,Kingston,27 Jun 2003
+30,71,19,90,-,-,3,0,v England,Galle,2 Dec 2003
+31,34,10,44,-,-,3,2,v England,Kandy,10 Dec 2003
+32,31,-,31,-,-,3,2,v England,Colombo (SSC),18 Dec 2003
+33,22,7,29,-,-,2,3,v Australia,Galle,8 Mar 2004
+34,5,29,34,-,-,3,1,v Australia,Kandy,16 Mar 2004
+35,22,27,49,-,-,2,0,v Australia,Colombo (SSC),24 Mar 2004
+36,11,-,11,-,-,0,0,v Zimbabwe,Harare,6 May 2004
+37,270,-,270,-,-,1,0,v Zimbabwe,Bulawayo,14 May 2004
+38,2,0,2,-,-,6,0,v Australia,Darwin,1 Jul 2004
+39,74,66,140,-,-,1,0,v Australia,Cairns,9 Jul 2004
+40,58,13,71,0,4,2,0,v South Africa,Galle,4 Aug 2004
+41,232,64,296,-,-,1,0,v South Africa,Colombo (SSC),11 Aug 2004
+42,2,59,61,-,-,0,0,v Pakistan,Faisalabad,20 Oct 2004
+43,13,138,151,-,-,2,0,v Pakistan,Karachi,28 Oct 2004
+44,5,DNB,5,-,-,0,0,v New Zealand,Napier,4 Apr 2005
+45,16,45,61,-,-,0,0,v New Zealand,Wellington,11 Apr 2005
+46,34,0,34,-,-,1,1,v West Indies,Colombo (SSC),13 Jul 2005
+47,6,157*,163,-,-,1,0,v West Indies,Kandy,22 Jul 2005
+48,30,-,30,-,-,3,2,v Bangladesh,Colombo (RPS),12 Sep 2005
+49,5,-,5,-,-,5,1,v Bangladesh,Colombo (PSS),20 Sep 2005
+50,30,-,30,-,-,1,0,v India,Chennai,2 Dec 2005
+51,3,33,36,-,-,3,0,v India,Delhi,10 Dec 2005
+52,41,17,58,-,-,3,0,v India,Ahmedabad,18 Dec 2005
+53,69,46,115,-,-,1,1,v Bangladesh,Chattogram,28 Feb 2006
+54,0,DNB,0,-,-,6,0,v Bangladesh,Bogra,8 Mar 2006
+55,8,185,193,-,-,2,0,v Pakistan,Colombo (SSC),26 Mar 2006
+56,79,16,95,-,-,3,0,v Pakistan,Kandy,3 Apr 2006
+57,21,65,86,-,-,1,0,v England,Lord's,11 May 2006
+58,25,18,43,-,-,2,0,v England,Birmingham,25 May 2006
+59,36,66,102,-,-,0,1,v England,Nottingham,2 Jun 2006
+60,287,-,287,-,-,0,0,v South Africa,Colombo (SSC),27 Jul 2006
+61,14,39,53,-,-,1,0,v South Africa,Colombo (PSS),4 Aug 2006
+62,4,100*,104,-,-,1,0,v New Zealand,Christchurch,7 Dec 2006
+63,156*,8,164,-,-,3,0,v New Zealand,Wellington,15 Dec 2006
+64,6,-,6,-,-,0,0,v Bangladesh,Colombo (SSC),25 Jun 2007
+65,200*,-,200,-,-,0,0,v Bangladesh,Colombo (PSS),3 Jul 2007
+66,222*,-,222,-,-,1,0,v Bangladesh,Kandy,11 Jul 2007
+67,57,192,249,-,-,0,0,v Australia,Hobart,16 Nov 2007
+68,92,152,244,-,-,1,0,v England,Kandy,1 Dec 2007
+69,1,-,1,-,-,1,0,v England,Colombo (SSC),9 Dec 2007
+70,46,-,46,-,-,0,0,v England,Galle,18 Dec 2007
+71,50,21,71,-,-,3,0,v West Indies,Providence,22 Mar 2008
+72,10,14,24,-,-,0,0,v West Indies,Port of Spain,3 Apr 2008
+73,12,-,12,-,-,0,0,v India,Colombo (SSC),23 Jul 2008
+74,68,1,69,-,-,1,0,v India,Galle,31 Jul 2008
+75,144,4,148,-,-,0,0,v India,Colombo (PSS),8 Aug 2008
+76,43,67,110,-,-,0,0,v Bangladesh,Mirpur,26 Dec 2008
+77,5,54,59,-,-,0,0,v Bangladesh,Chattogram,3 Jan 2009
+78,70,65,135,0,34,0,0,v Pakistan,Karachi,21 Feb 2009
+79,104,-,104,-,-,0,0,v Pakistan,Lahore,1 Mar 2009
+80,9,14,23,-,-,0,0,v Pakistan,Galle,4 Jul 2009
+81,87,46,133,-,-,0,0,v Pakistan,Colombo (PSS),12 Jul 2009
+82,45,130*,175,-,-,2,0,v Pakistan,Colombo (SSC),20 Jul 2009
+83,8,46,54,-,-,0,0,v New Zealand,Galle,18 Aug 2009
+84,50,109,159,-,-,1,0,v New Zealand,Colombo (SSC),26 Aug 2009
+85,31,-,31,-,-,0,0,v India,Ahmedabad,16 Nov 2009
+86,44,11,55,-,-,1,0,v India,Kanpur,24 Nov 2009
+87,18,137,155,-,-,0,0,v India,Brabourne,2 Dec 2009
+88,103,DNB,103,-,-,1,0,v India,Galle,18 Jul 2010
+89,219,42*,261,-,-,3,0,v India,Colombo (SSC),26 Jul 2010
+90,75,28,103,-,-,2,0,v India,Colombo (PSS),3 Aug 2010
+91,73,4,77,-,-,0,0,v West Indies,Galle,15 Nov 2010
+92,150,1*,151,-,-,0,0,v West Indies,Colombo (RPS),23 Nov 2010
+93,TDNB,-,-,-,-,0,0,v West Indies,Pallekele,1 Dec 2010
+94,11,14,25,-,-,0,0,v England,Cardiff,26 May 2011
+95,26,12,38,-,-,0,0,v England,Lord's,3 Jun 2011
+96,2,119,121,-,-,0,0,v England,Southampton,16 Jun 2011
+97,10,17,27,-,-,0,0,v Australia,Galle,31 Aug 2011
+98,48,69,117,0,4,3,0,v Australia,Pallekele,8 Sep 2011
+99,79,DNB,79,-,-,0,0,v Australia,Colombo (SSC),16 Sep 2011
+100,2,211,213,-,-,0,0,v Pakistan,Abu Dhabi,18 Oct 2011
+101,78,30,108,-,-,0,0,v Pakistan,Dubai (DICS),26 Oct 2011
+102,144,51,195,-,-,1,0,v Pakistan,Sharjah,3 Nov 2011
+103,1,2,3,-,-,0,0,v South Africa,Centurion,15 Dec 2011
+104,0,108,108,-,-,0,0,v South Africa,Durban,26 Dec 2011
+105,35,34,69,-,-,0,0,v South Africa,Cape Town,3 Jan 2012
+106,0,14,14,-,-,0,0,v England,Galle,26 Mar 2012
+107,0,21,21,-,-,0,0,v England,Colombo (PSS),3 Apr 2012
+108,199*,1,200,-,-,1,0,v Pakistan,Galle,22 Jun 2012
+109,192,24*,216,-,-,0,0,v Pakistan,Colombo (SSC),30 Jun 2012
+110,0,74*,74,-,-,0,0,v Pakistan,Pallekele,8 Jul 2012
+111,5,DNB,5,-,-,0,0,v New Zealand,Galle,17 Nov 2012
+112,0,16,16,-,-,0,0,v New Zealand,Colombo (PSS),25 Nov 2012
+113,4,63,67,-,-,1,0,v Australia,Hobart,14 Dec 2012
+114,58,27*,85,-,-,0,0,v Australia,Melbourne,26 Dec 2012
+115,142,105,247,-,-,0,0,v Bangladesh,Galle,8 Mar 2013
+116,139,55,194,-,-,0,0,v Bangladesh,Colombo (RPS),16 Mar 2013
+117,16,55,71,-,-,1,0,v Pakistan,Abu Dhabi,31 Dec 2013
+118,26,9*,35,0,7,0,0,v Pakistan,Dubai (DICS),8 Jan 2014
+119,52,8,60,-,-,1,0,v Pakistan,Sharjah,16 Jan 2014
+120,75,-,75,-,-,0,0,v Bangladesh,Mirpur,27 Jan 2014
+121,319,105,424,-,-,0,0,v Bangladesh,Chattogram,4 Feb 2014
+122,147,61,208,-,-,1,0,v England,Lord's,12 Jun 2014
+123,79,55,134,-,-,1,0,v England,Leeds,20 Jun 2014
+124,24,76,100,-,-,0,0,v South Africa,Galle,16 Jul 2014
+125,0,72,72,-,-,1,0,v South Africa,Colombo (SSC),24 Jul 2014
+126,221,21,242,-,-,1,0,v Pakistan,Galle,6 Aug 2014
+127,22,59,81,-,-,1,0,v Pakistan,Colombo (SSC),14 Aug 2014
+128,6,1,7,-,-,1,0,v New Zealand,Christchurch,26 Dec 2014
+129,203,5,208,-,-,1,0,v New Zealand,Wellington,3 Jan 2015
+130,50,18,68,-,-,1,0,v Pakistan,Galle,17 Jun 2015
+131,34,0,34,-,-,3,0,v Pakistan,Colombo (PSS),25 Jun 2015
+132,5,40,45,-,-,0,0,v India,Galle,12 Aug 2015
+133,32,18,50,-,-,0,0,v India,Colombo (PSS),20 Aug 2015
